@@ -54,8 +54,8 @@ As a Junior Developer, I am passionate about continuous learning and applying my
 ---
 
 ## Education
-- **Senior at Computer Engineering**  
-  TUIT University | 2020-2024  
+- **Studying at Computer Engineering**  
+  TUIT University | 2020 - present  
 
 ---
 
